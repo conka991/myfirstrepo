@@ -4,3 +4,4 @@ Metas por cumplir en Marzo 2018:
 ->Conseguir trabajo
 ->Terminar INOCATIM
 ->Aprender REACT
+->Apender MongoDB
