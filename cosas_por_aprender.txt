@@ -2,7 +2,7 @@ Metas por cumplir en Marzo 2018:
 ->Seguir con el trote
 ->Aprender bien y mu bien GIT	
 ->Conseguir trabajo
-->Terminar INOCATIM
+->Terminar INFOCATIM
 ->Aprender REACT
 ->Aprender MongoDB
 ->Aprender a hablar y escribir en ingles fluidamente
